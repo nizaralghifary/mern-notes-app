@@ -43,7 +43,7 @@ Di frontend jalankan
 $ npm run dev
 ```
 
-Di backend jalankan
+Di backend dengan folder api jalankan
 ```bash
-$ npm start
+$ nodemon index.js
 ```
