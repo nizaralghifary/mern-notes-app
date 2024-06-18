@@ -20,6 +20,7 @@ $ npm i
 ```
 
 **Set Up Environment Variable**
+
 Buka terminal lalu jalankan kode
 ```bash
 $ node
@@ -32,13 +33,16 @@ ACCESS_TOKEN_SECRET =
 ```
 
 **Customize Files**
+
 File `config.json` di folder backend dengan mongodb_uri kamu
 
 **Run Program**
+
 Di frontend jalankan
 ```bash
 $ npm run dev
 ```
+
 Di backend jalankan
 ```bash
 $ npm start
