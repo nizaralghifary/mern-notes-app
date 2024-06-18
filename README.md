@@ -32,9 +32,9 @@ Buat file `.env` di folder backend, lalu copy hasil dari kode diatas ke file `.e
 ACCESS_TOKEN_SECRET =
 ```
 
-**Customize Files**
+**MongoDB URI**
 
-File `config.json` di folder backend dengan mongodb_uri kamu
+Ubah file `config.json` di folder backend dengan mongodb_uri kamu
 
 **Run Program**
 
