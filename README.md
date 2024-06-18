@@ -1,6 +1,10 @@
 ## Simple Notes App with MERN
 Ini adalah aplikasi catatan sederhana yang dibuat dengan MERN (MongoDB, Express, React, Node)
 
+**Live Link**
+
+https://note-app-two-mu.vercel.app/
+
 ## Instalation
 
 **Clone Repository**
