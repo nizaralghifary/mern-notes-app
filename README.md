@@ -3,7 +3,7 @@ Ini adalah aplikasi catatan sederhana yang dibuat dengan MERN (MongoDB, Express,
 
 **Live Link**
 
-https://note-app-two-mu.vercel.app/
+https://notes-app.nizaralghifary.my.id/
 
 ## Instalation
 
