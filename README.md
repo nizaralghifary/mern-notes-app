@@ -9,26 +9,25 @@ https://notes-app.nizaralghifary.my.id/
 
 **Clone Repository**
 ```bash
-$ git clone https://github.com/nizaralghifary/mern-notes-app.git
-$ cd mern-notes-app
+git clone https://github.com/nizaralghifary/mern-notes-app.git
+cd mern-notes-app
 ```
 
 **Install Library**
 ```bash
-$ cd frontend
-$ npm i
+cd frontend
+npm i
 ```
 ```bash
-$ cd backend
-$ npm i
+cd backend
+npm i
 ```
 
 **Set Up Environment Variable**
 
 Buka terminal lalu jalankan kode
 ```bash
-$ node
-$ console.log(require('crypto').randomBytes(32).toString('hex'))
+node console.log(require('crypto').randomBytes(32).toString('hex'))
 ```
 
 Buat file `.env` di folder backend, lalu copy hasil dari kode diatas ke file `.env`
@@ -44,10 +43,10 @@ Ubah file `config.json` di folder backend dengan mongodb_uri kamu
 
 Di frontend jalankan
 ```bash
-$ npm run dev
+npm run dev
 ```
 
 Di backend dengan folder api jalankan
 ```bash
-$ nodemon index.js
+nodemon index.js
 ```
