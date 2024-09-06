@@ -26,7 +26,8 @@ npm i
 **Set Up Environment Variable**
 
 Buka terminal lalu jalankan kode
-```bash console.log(require('crypto').randomBytes(32).toString('hex'))
+```bash
+ console.log(require('crypto').randomBytes(32).toString('hex'))
 ```
 
 Buat file `.env` di folder backend, lalu copy hasil dari kode diatas ke file `.env`
